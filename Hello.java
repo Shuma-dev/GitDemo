@@ -1,6 +1,7 @@
 public class Hello {
 	public static void main(String... arg){
-		System.out.println("Hello  old version Java!!!!! ");
+		System.out.println("Hello Java!");
+		System.out.println("Good luck!");
 
 
 }
